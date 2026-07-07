@@ -17,11 +17,6 @@ Highlights:
 
 ## 🧪 .env Setup
 
-### Backend (`/backend`)
-
-
-NODE_ENV=development
-```
 
 ## 🔧 Run the Backend
 
